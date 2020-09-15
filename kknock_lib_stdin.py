@@ -1,3 +1,4 @@
+#reader가 stdin으로만 입력함을 이용한 방법
 import datetime
 import pandas as pd
 
